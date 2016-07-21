@@ -1,5 +1,6 @@
 hello! GitHub
 
 Gitの操作方法について学びます。
+branch_aを作ってそこで作業しています。
 
 
